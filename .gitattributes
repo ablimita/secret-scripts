@@ -3,3 +3,4 @@
 **/*.txt filter=git-crypt diff=git-cryp
 **/*.py filter=git-crypt diff=git-cryp
 **/*.md filter=git-crypt diff=git-cryp
+**/*.yaml filter=git-crypt diff=git-cryp
