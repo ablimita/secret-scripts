@@ -1,6 +1,6 @@
-**/*.sh filter=git-crypt diff=git-cryp
-**/*.json filter=git-crypt diff=git-cryp
-**/*.txt filter=git-crypt diff=git-cryp
-**/*.py filter=git-crypt diff=git-cryp
-**/*.md filter=git-crypt diff=git-cryp
-**/*.yaml filter=git-crypt diff=git-cryp
+**/*.sh filter=git-crypt diff=git-crypt
+**/*.json filter=git-crypt diff=git-crypt
+**/*.txt filter=git-crypt diff=git-crypt
+**/*.py filter=git-crypt diff=git-crypt
+**/*.md filter=git-crypt diff=git-crypt
+**/*.yaml filter=git-crypt diff=git-crypt
